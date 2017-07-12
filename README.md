@@ -1,3 +1,5 @@
+# \[TOC\]
+
 # Bean
 
 ```
@@ -28,8 +30,6 @@ public class KnightConfig {
 ```
 
 # Aop
-
-
 
 ```
 @Component
@@ -78,7 +78,6 @@ public class TalkShow implements Performance {
 @EnableAspectJAutoProxy
 public class AspectConfig {
 }
-
 ```
 
 # spel
